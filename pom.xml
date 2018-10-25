@@ -11,6 +11,7 @@
     <modules>
         <module>fastdfs-client</module>
         <module>fastDFS-test</module>
+        <module>springdataredistest</module>
     </modules>
 
 
